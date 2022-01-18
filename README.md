@@ -1,2 +1,2 @@
-# alura_logicaProg_1
-Curso de Lógica de programação I: Os primeiros programas com Javascript e HTML
+# alura_fundamentosJS
+Fundamentos do JavaScript: Tipos, variáveis e funções
