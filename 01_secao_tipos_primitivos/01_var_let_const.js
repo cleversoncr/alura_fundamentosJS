@@ -43,3 +43,9 @@ if (forma === 'retangulo') {
 
 console.log(area);
 
+/*
+ * var tem um escopo global, então funciona em qualquer parte do código, o que pode gerar possíveis problemas
+  em relação à lógica da aplicação.
+ * let e const têm escopo local, sendo assim, não podem ser acessadas em outros escopos,
+ */
+
